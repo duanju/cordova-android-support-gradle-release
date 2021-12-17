@@ -1,6 +1,7 @@
 {
-  "name": "@ju/cordova-android-support-gradle-release",
+  "name": "@ju_duan/cordova-android-support-gradle-release",
   "version": "3.0.2",
+  "private": false,
   "description": "Cordova/Phonegap plugin to align various versions of the Android Support libraries specified by other plugins to a specific version",
   "devDependencies": {},
   "license": "MIT",
