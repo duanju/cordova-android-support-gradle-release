@@ -1,0 +1,27 @@
+{
+  "name": "@ju/cordova-android-support-gradle-release",
+  "version": "3.0.2",
+  "description": "Cordova/Phonegap plugin to align various versions of the Android Support libraries specified by other plugins to a specific version",
+  "devDependencies": {},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duanju/cordova-android-support-gradle-release.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duanju/cordova-android-support-gradle-release/issues"
+  },
+  "engines": [
+  {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "ju_duan"
+  },
+  "dependencies": {
+    "q": "^1.4.1",
+    "semver": "5.6.0"
+  }
+}
